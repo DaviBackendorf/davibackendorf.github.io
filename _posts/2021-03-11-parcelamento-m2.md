@@ -1,8 +1,9 @@
 ---
 layout: post
 title:  "Módulo de Parcelamento para Magento 2"
+description: "Módulo de preço parcelado para magento 2"
 author: davi
-categories: [ magento 2, tutorial ]
+categories: [ magento 2, modulo ]
 image: assets/images/parcelamento/capa.jpg
 featured: true
 hidden: true
