@@ -47,4 +47,4 @@ O módulo foi desenvolvido pensando na praticidade e garantindo o seu funcioname
 
 {% include image-gallery.html folder="/assets/images/parcelamento/galeria/frontend" %}
 
-Peça uma demonstração clicando [aqui!](https://api.whatsapp.com/send?phone=5549998269618&text=Ol%C3%A1,%20tenho%20interesse%20no%20m%C3%B3dulo%20de%20parcelamento.)
+Disponível no [Git Hub] (https://github.com/DaviBackendorf/magento2-installment)
