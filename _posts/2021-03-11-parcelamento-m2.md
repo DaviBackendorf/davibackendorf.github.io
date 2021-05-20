@@ -47,4 +47,4 @@ O módulo foi desenvolvido pensando na praticidade e garantindo o seu funcioname
 
 {% include image-gallery.html folder="/assets/images/parcelamento/galeria/frontend" %}
 
-Disponível no [Git Hub] (https://github.com/DaviBackendorf/magento2-installment)
+Disponível no [Git Hub](https://github.com/DaviBackendorf/magento2-installment)
