@@ -1,7 +1,7 @@
 # Site
 name: "Davi Backendorf"
 title: "Davi Backendorf"
-description: "Desenvolvedor de Software - Magento 2"
+description: "Magento Developer"
 # logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 baseurl: "/"
@@ -21,7 +21,7 @@ authors:
     email: davijacksonb@gmail.com
     web: /
     # twitter: https://twitter.com/wowthemesnet
-    description: "Desenvolvedor de Software Web Full Stack - Magento 2"
+    description: "Magento developer"
  
 # Plugins
 plugins:
@@ -62,3 +62,6 @@ kramdown:
 lazyimages: "enabled"
 
 exclude: [changelog.md, LICENSE.txt, README.md, Gemfile, Gemfile.lock]
+
+
+linkedin_url: "https://www.linkedin.com/in/davibackendorf" 
