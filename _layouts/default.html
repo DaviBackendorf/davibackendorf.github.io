@@ -13,6 +13,9 @@
 <link href="{{ site.baseurl }}/assets/css/main.css" rel="stylesheet">
 
 <script rel="preconnect" src="{{ site.baseurl }}/assets/js/jquery.min.js"></script>
+        {% if jekyll.environment == 'production' %}
+        {% include google_analytics.html %}
+        {% endif %}
 </head>
 
 {% capture layout %}{% if page.layout %}layout-{{ page.layout }}{% endif %}{% endcapture %}

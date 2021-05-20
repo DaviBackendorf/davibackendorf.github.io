@@ -32,9 +32,7 @@
     }
 
     if(readCookie('cookie-notice-dismissed')=='true') {
-        {% if jekyll.environment == 'production' %}
-        {% include google_analytics.html %}
-        {% endif %}
+
     } else {
         document.getElementById('cookie-notice').style.display = 'block';
     }
