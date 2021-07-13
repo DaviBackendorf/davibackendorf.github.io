@@ -321,7 +321,8 @@ span.post-read-more a:hover {
     color: white;
     margin-top: 50px;
     position: relative;
-    background: #212529cf;
+    background: #212529;
+    font-weight: 800;
 }
 
 .link-dark {
