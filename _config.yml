@@ -64,4 +64,5 @@ lazyimages: "enabled"
 exclude: [changelog.md, LICENSE.txt, README.md, Gemfile, Gemfile.lock]
 
 
-linkedin_url: "https://www.linkedin.com/in/davibackendorf" 
+linkedin_url: "https://www.linkedin.com/in/davibackendorf"
+whats_app_url: "https://api.whatsapp.com/send?phone=5549998269618&text=Fala Davi, tudo bem?"
