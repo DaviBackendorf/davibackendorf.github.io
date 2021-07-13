@@ -2,8 +2,8 @@
 name: "Davi Backendorf"
 title: "Davi Backendorf"
 description: "Magento Developer"
-# logo: 'assets/images/logo.png'
-favicon: 'assets/images/logo.png'
+logo: 'assets/images/cup.png'
+favicon: 'assets/images/cup.png'
 baseurl: "/"
 google_analytics: 'UA-192077938-1'
 disqus: 'davi-backendorf-blog'
