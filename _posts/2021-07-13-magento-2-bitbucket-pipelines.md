@@ -34,7 +34,7 @@ Informe o **_IP:PORTA_** do servidor SSH e clique em "**_Fetch_**", depois em "*
 Acesse o seu servidor via SSH e edite/crie o arquivo `~/.ssh/authorized_keys` com o seu editor favorito. Copie a chave
 publica gerada anteriormente no Bitbucket e cole no arquivo, salve e feche.
 
-**Pronto, neste ponto o Bitbucket já deve tem acesso ao seu servidor!**
+**Pronto, neste ponto o Bitbucket já deve ter acesso ao seu servidor!**
 
 ### Preparando o ambiente no servidor
 #### Clonando repositório via SSH
