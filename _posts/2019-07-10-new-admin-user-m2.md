@@ -4,6 +4,8 @@ title:  "Criar novo usuário no Magento 2 (Pelo terminal)"
 author: davi
 categories: [ dicas, magento 2, tutorial ]
 image: assets/images/new-admin-user/capa.png
+comments: false
+share: false
 ---
 Navegue através do terminal até a pasta principal da sua loja e cole o seguinte conteúdo substituindo os valores:
 

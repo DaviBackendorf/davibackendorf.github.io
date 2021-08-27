@@ -4,6 +4,8 @@ title:  "Como criar um módulo no Magento 2"
 author: davi
 categories: [ dicas, magento 2, tutorial ]
 image: assets/images/new-module/new-module.jpeg
+comments: false
+share: false
 ---
 A dica de hoje é pra quem esta começando com desenvolvimento no magento... 
 ## 1º Criar arquivo “module.xml”

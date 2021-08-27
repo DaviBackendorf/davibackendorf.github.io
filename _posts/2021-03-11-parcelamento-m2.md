@@ -7,6 +7,8 @@ categories: [ magento 2, modulo ]
 image: assets/images/parcelamento/capa.jpg
 featured: true
 hidden: true
+comments: false
+share: false
 ---
 
 Por padrão o Magento 2 não atende a necessidade dos lojistas em exibir as opções de parcelamento no catálogo de produtos. Então desenvolvi um módulo que implementa esta funcionalidade...

@@ -4,6 +4,8 @@ title:  "Como limpar a memória SWAP no Ubuntu"
 author: davi
 categories: [ dicas, linux ]
 image: assets/images/swap/swap.png
+comments: false
+share: false
 ---
 
 Dica simples para limpar a memória SWAP alocada:

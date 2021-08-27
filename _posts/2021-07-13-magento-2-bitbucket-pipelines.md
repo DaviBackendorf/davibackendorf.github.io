@@ -7,6 +7,8 @@ categories: [ magento 2, DevOps ]
 image: assets/images/bitbucket-pipelines/capa.png
 featured: true
 hidden: true
+comments: false
+share: false
 ---
 
 Configure o deploy automatizado da sua loja usando **_Bitbucket Pipelines_** e tenha entregas mais rápidas, com
